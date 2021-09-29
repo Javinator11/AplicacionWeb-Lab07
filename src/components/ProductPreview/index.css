@@ -1,0 +1,38 @@
+.productPreview {
+    margin: 10px;
+    padding: 10px;
+}
+
+img.mediumImage {
+    width: 500px !important;
+    height: 500px !important;   
+}
+
+div.mediumImage {
+    box-shadow: none;
+    background-color: #fafafa;
+}
+
+.productLabel{
+    font-weight: bold !important;
+}
+
+.addCartButton{
+    background-color: rgb(117, 199, 117) !important;
+}
+
+.productName {
+    font-size: 3em !important;
+}
+
+.productGrid {
+    flex-grow: 1;
+}
+
+.dollars:before {
+    content:'$'; 
+}
+
+.crossedout {
+    text-decoration: line-through
+}
