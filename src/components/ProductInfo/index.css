@@ -17,8 +17,9 @@ div.largeImage {
     font-weight: bold !important;
 }
 
-.addCartButton{
+.cartButton{
     background-color: rgb(117, 199, 117) !important;
+    color: white !important;
 }
 
 .productName {
@@ -35,4 +36,9 @@ div.largeImage {
 
 .crossedout {
     text-decoration: line-through
+}
+
+.comment-title{
+    font-size: 2.5rem !important;
+    font-weight: bold !important;
 }

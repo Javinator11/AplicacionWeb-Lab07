@@ -13,8 +13,23 @@ div.mediumImage {
     background-color: #fafafa;
 }
 
+a.product-link:link{
+    color: black !important;
+    text-decoration: none !important;
+}
+
+a.product-link:visited{
+    color: black !important;
+    text-decoration: none !important;
+}
+
+a.product-link:hover{
+    color: rgb(117, 199, 117) !important;
+    text-decoration: none !important;
+}
+
 .productLabel{
-    font-weight: bold !important;
+    font-weight: bold !important; 
 }
 
 .addCartButton{
